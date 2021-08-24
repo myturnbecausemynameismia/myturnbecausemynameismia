@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myturnbecausemynameismia
 - 👀 I’m interested in software development, databases, and game design.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on games and programming.
+- 🌱 I’m currently learning Ruby.
+- 💞️ I’m looking to collaborate on programming and games.
 - 📫 How to reach me mia.delara1@marist.edu
 
 <!---
